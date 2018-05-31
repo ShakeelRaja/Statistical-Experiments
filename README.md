@@ -8,9 +8,20 @@ In this lesson, we will introduce the basic ideas of experimental design. Let's 
 An **Experiment** is defined as a structured and efficient approach which employs statistical techniques  under controlled conditions, in order to discover or illustrate an unknown **Effect**, in order to test or establish a **Hypothesis**. 
 When analyzing processes, experiments are often used to evaluate which process inputs have a **significant impact** on the process output, and what **Target Levels** of those inputs should be to achieve a desired output. Experiments can be designed in many different ways to collect this information. The terms *“Experimental Design”* or *“Design of Experiments”* are used interchangeably and mean the same thing. However, the medical and social sciences tend to use the term “Experimental Design” while engineering, industrial and computer sciences favor the term “Design of experiments”.
 
-The elements of an experimental design are the **Experimental Units**, and the **Treatments** or **Factors** that are assigned to these units. The key objective of an experimental design is always to compaere different treatments e.g. for clinical trials around testing the effect of different drugs on patients, "patients" are the experimental units and "drugs" is the treatment. Similarly, in agricultural experiments, the plots in fields are experimental units, and different pesticides, fertilizers could be seen as treatments. The goal in all such experiments is to investigate potentially significant treatments/factors and determine their cause-and-effect relationship on the outcome of an experiment. 
-
 Today experimenral design ideas are used extensively towards **Industrial Process Optimization** , **Medicine**, **Social Sciences** . Experimental design is the corner stone of **A/B testing**, which is one of the main tasks of many data scientists today.
+
+The elements of an experimental design are the **Experimental Units**, **Treatments** and **Factors** that are assigned to these units. The key objective of an experimental design is always to compaere different treatments e.g. for clinical trials around testing the effect of different drugs on patients, "patients" are the experimental units and "drugs" is the treatment. Similarly, in agricultural experiments, the plots in fields are experimental units, and different pesticides, fertilizers could be seen as treatments. The goal in all such experiments is to investigate potentially significant treatments/factors and determine their cause-and-effect relationship on the outcome of an experiment. 
+
+## Treatment
+In experiments, a treatment is something that researchers administer to experimental units. For example, a corn field is divided into four, each part is 'treated' with a different fertiliser to see which produces the most corn; a teacher practices different teaching methods on different groups to see which yields the best results; a doctor treats a patient with a skin condition with different creams to see which is most effective. Treatments are administered to experimental units by 'level', where level implies amount or magnitude. For example, if the experimental units were given 5mg, 10mg, 15mg of a medication, those amounts would be three levels of the treatment. 
+
+## Factor
+A factor of an experiment is a controlled independent variable; a variable whose levels are set by the experimenter.
+A factor is a general type or category of treatments. Different treatments constitute different levels of a factor. For example, three different groups of runners are subjected to different training methods. The runners are the experimental units, the training methods, the treatments, where the three types of training methods constitute three levels of the factor 'type of training'. 
+
+
+
+
 
 Any experimental design uses three basic principles i.e. **Replication, Local Control** and **Randomization**
 
@@ -35,8 +46,9 @@ It must be noted that all extraneous sources of variation are not removed by ran
 
 **Blocking** allows collection of similar experimental units to form a relatively **Homogeneous** group.
 > A data set is homogeneous if it is made up of things (i.e. people, cells or traits) that are similar to each other.
+A block is also a replicate. The main idea behind local control is to increase the efficiency of an experimental design by decreasing the Experimental Error. 
 
-A block is also a replicate. The main purpose of the principle of local control is to increase the efficiency of an experimental design by decreasing the Experimental Error. The point to remember here is that the term local control should not be confused with the word control. The word control in experimental design is used for a treatment which does not receive any treatment when we need to find out the effectiveness of other treatments through comparison.
+
 
 
 Read more: https://www.emathzone.com/tutorials/basic-statistics/basic-principles-of-experimental-designs.html#ixzz5H4fyufm2
