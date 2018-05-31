@@ -1,12 +1,15 @@
 # INTRODUCTION TO EXPERIMENTS 
 
 ## SWBAT:
-1
-2
-3
+Experimental Design 
+
+bias in experiments
+
+randomly controlled trials 
+
+beginning with the null hypothesis, and then going to alternative
 
 
-Experimental Design, bias in experiments, randomly controlled trials; beginning with the null hypothesis, and then going to alternative
 
 In this lesson, we will introduce the basic ideas of experimental design. Let's start by introducing a few terms which will be explained in detail during the course of this module. 
 
