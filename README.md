@@ -1,4 +1,10 @@
-# Experimentation Design 
+# INTRODUCTION TO EXPERIMENTS 
+
+## SWBAT:
+1
+2
+3
+
 
 Experimental Design, bias in experiments, randomly controlled trials; beginning with the null hypothesis, and then going to alternative
 
