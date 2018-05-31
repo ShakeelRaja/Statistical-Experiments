@@ -26,7 +26,7 @@ A factor is a general type or category of treatments. Different treatments const
 Any experimental design uses three basic principles i.e. **Replication, Local Control** and **Randomization**
 
 ### Randomization 
-The first principle of an experimental design is randomization, which is a process of randomly assigning treatments to the experimental units. The random process implies that all possible applications of treatments have the same probability. An experimental unit can be thought of as the smallest division of the experimental material, and a treatment as an experimental condition whose effect is to be measured and analyzed. The purpose of randomization is to remove bias and other sources of extraneous variation which are not controllable. Another advantage of randomization (accompanied by replication, gven below) is that it provides basis of any valid statistical test. Hence, the treatments must be assigned at random to the experimental units. 
+The first principle of an experimental design is randomization, which is a process of randomly assigning treatments to the experimental units. Randomization is an essential essential requirements in almost all statistical analyses. A random process implies that all possible applications of treatments have the same probability. An experimental unit can be thought of as the smallest division of the experimental material, and a treatment as an experimental condition whose effect is to be measured and analyzed. The purpose of randomization is to remove bias and other sources of extraneous variation which are not controllable. Another advantage of randomization (accompanied by replication, gven below) is that it provides basis of any valid statistical test. Hence, the treatments must be assigned at random to the experimental units. 
 
 ### Replication 
 The next principle of an experimental design is replication, which deals with repetition of the basic experiment. In other words, it provides a wider set of all the treatments to be tested in the given experiment. During design of experiments, some kind of variation is always introduced to cater for the fact that the experimental units such as individuals or plots of land in agricultural experiments can never be physically identical. This type of variation can be removed by using a number of experimental units. The experiment is therefore performed a number of times i.e. repeating/replicating the basic experiment. An individual repetition is called a **Replicate**. Attributes of replicates depend upon the nature of the experimental material and knowledge of the experiment domain. A replication is used to:
@@ -48,11 +48,5 @@ It must be noted that all extraneous sources of variation are not removed by ran
 > A data set is homogeneous if it is made up of things (i.e. people, cells or traits) that are similar to each other.
 A block is also a replicate. The main idea behind local control is to increase the efficiency of an experimental design by decreasing the Experimental Error. 
 
+It allows the experimenter to rule out alternative explanations due to the confounding effects of extraneous variables (i.e., variables other than the independent variables).
 
-
-
-Read more: https://www.emathzone.com/tutorials/basic-statistics/basic-principles-of-experimental-designs.html#ixzz5H4fyufm2
-Local Control refers to the that accounts for, and reduces natural variability. One way of achieving local control is to group similar experimental units into **Blocks**. It allows the experimenter to rule out alternative explanations due to the confounding effects of extraneous variables (i.e., variables other than the independent variables).
-
-
-Randomization is an essential essential requirements in almost all statistical analyses. Ranmization allows treatments to be randomly assigned to experimental units to help reduce variability within treatment conditions, making it easier to detect differences in treatment outcomes.
