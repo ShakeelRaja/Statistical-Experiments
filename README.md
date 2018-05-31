@@ -21,11 +21,12 @@ When analyzing processes, experiments are often used to evaluate which process i
 Today experimenral design ideas are used extensively towards **Industrial Process Optimization** , **Medicine**, **Social Sciences** . Experimental design is the corner stone of **A/B testing**, which is one of the main tasks of many data scientists today.
 
 The elements of an experimental design are the **Experimental Units**, **Treatments** and **Factors** that are assigned to these units. The key objective of an experimental design is always to compaere different treatments e.g. for clinical trials around testing the effect of different drugs on patients, "patients" are the experimental units and "drugs" is the treatment. Similarly, in agricultural experiments, the plots in fields are experimental units, and different pesticides, fertilizers could be seen as treatments. The goal in all such experiments is to investigate potentially significant treatments/factors and determine their cause-and-effect relationship on the outcome of an experiment. 
+### Eperimental Units 
 
-### Treatment
+### Treatments
 In experiments, a treatment is something that researchers administer to experimental units. For example, a corn field is divided into four, each part is 'treated' with a different fertiliser to see which produces the most corn; a teacher practices different teaching methods on different groups to see which yields the best results; a doctor treats a patient with a skin condition with different creams to see which is most effective. Treatments are administered to experimental units by 'level', where level implies amount or magnitude. For example, if the experimental units were given 5mg, 10mg, 15mg of a medication, those amounts would be three levels of the treatment. 
 
-### Factor
+### Factors
 A factor of an experiment is a controlled independent variable; a variable whose levels are set by the experimenter.
 A factor is a general type or category of treatments. Different treatments constitute different levels of a factor. For example, three different groups of runners are subjected to different training methods. The runners are the experimental units, the training methods, the treatments, where the three types of training methods constitute three levels of the factor 'type of training'. 
 
