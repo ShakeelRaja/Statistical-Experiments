@@ -1,19 +1,20 @@
 # INTRODUCTION TO EXPERIMENTS 
 
 ## SWBAT:
-Experimental Design 
+* Describe Experimental Design in detail including ytpes of design and validation. 
 
-bias in experiments
+* Critically analyze different types of biases in experimental design including selection, information and publication biases. 
 
-randomly controlled trials 
+* Discuss the application of Randomly Controlled Trials (RCTs) towards avoiding skewness of results, 
 
-beginning with the null hypothesis, and then going to alternative
-
-
+* Set Null hypothesis and Alternate Hypothesis for a given problem 
 
 In this lesson, we will introduce the basic ideas of experimental design. Let's start by introducing a few terms which will be explained in detail during the course of this module. 
 
 ## Experimental Design or Design of Experiments (DoE)
+
+http://www.statisticshowto.com/experimental-design/
+https://cirt.gcu.edu/research/developmentresources/research_ready/experimental/design_types
 
 An **Experiment** is defined as a structured and efficient approach which employs statistical techniques  under controlled conditions, in order to discover or illustrate an unknown **Effect**, in order to test or establish a **Hypothesis**. 
 When analyzing processes, experiments are often used to evaluate which process inputs have a **significant impact** on the process output, and what **Target Levels** of those inputs should be to achieve a desired output. Experiments can be designed in many different ways to collect this information. The terms *“Experimental Design”* or *“Design of Experiments”* are used interchangeably and mean the same thing. However, the medical and social sciences tend to use the term “Experimental Design” while engineering, industrial and computer sciences favor the term “Design of experiments”.
@@ -60,3 +61,38 @@ A block is also a replicate. The main idea behind local control is to increase t
 
 It allows the experimenter to rule out alternative explanations due to the confounding effects of extraneous variables (i.e., variables other than the independent variables).
 
+## Bias in Experimental Design 
+
+What is Experimental Bias?
+https://imotions.com/blog/what-is-bias/
+
+
+Types of Biases in Experimental Design: 
+
+* Research Bias
+* Design bias
+* Selection Bias
+* Procedural Bias
+* Measurement Bias
+* Interviewer Bias
+* Responce Bias
+* Reporting Bias
+https://explorable.com/research-bias
+https://cirt.gcu.edu/research/developmentresources/research_ready/experimental/error_bias
+
+
+### Random Control Trials (RCTs) - the Gold standard 
+
+http://www.ctu.mrc.ac.uk/about_clinical_trials/what_is_a_randomised_controlled_trial/
+https://www.medicalnewstoday.com/articles/280574.php
+
+### Null and Alternate Hypothesis 
+
+https://www.thoughtco.com/null-hypothesis-vs-alternative-hypothesis-3126413
+
+* Setting up Null and Alternate Hypothesis
+http://www.dummies.com/education/math/statistics/how-to-set-up-a-hypothesis-test-null-versus-alternative/
+
+### Summary and conclusion
+
+This lesson provided an introduction to the domain of experimental design covering all the key terms which are usually employed by experimenters to define and control the design process. The lesson introduces to ideas such as measurement errors and different types of biases towards setting up an experiments and reporting the results, which may harm the authenticity of experiment. Randomly controlled trials are also discussed in this lesson as a gold standard towards reducing and controlling the selection bias in an experimental setup. The lessons concludes by providing an insiht into setting up hypothesis for conducting an experiment, and highlights the contexts for setting up Null and Alterbnate hypotheses. 
